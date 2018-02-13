@@ -11,10 +11,10 @@ class Demonetization(object):
     def authentication(self):
         
 
-        key = 'chgr95scAdK4rBOAmf5JUirjC'
-        secret = 'LJCWDJhdxzi4wmN8zwYy8WwF9zTiAncnoXaHNBmUosUVUHrM2O'
-        token = '2192917598-gowTFUXX4jb4dKMoJC54UeofDFMuD0nPKIulZYY'
-        token_secret = 'RYK8yak1RlhUCKQKYKY0G8TBp8MY1wunH1i2rRzuU8Xd6'
+        key = '*************************'
+        secret = '*******************************************'
+        token = '*******************************************'
+        token_secret = '*******************************************'
  
         # attempt authentication
         try:
